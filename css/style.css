@@ -61,6 +61,11 @@
 
   .card-icons .icone {
     color:rgba(12, 2, 11, 0.644);
+    margin-left: 10px;
+    margin-right: 5px;
+  }
+  .card-icons .con {
+    color:rgba(12, 2, 11, 0.644);
     margin-left: 20px;
   }
 }
@@ -129,12 +134,18 @@
     padding: 5px;
     background: #a008ae48;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-self: center;
     align-items: center;
+    justify-content: center;
   }
-  
+
   .card-icons .icone {
+    color:rgba(12, 2, 11, 0.644);
+    margin-left: 10px;
+    margin-right: 5px;
+  }
+  .card-icons .con {
     color:rgba(12, 2, 11, 0.644);
     margin-left: 20px;
   }
