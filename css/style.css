@@ -64,10 +64,7 @@
     margin-left: 10px;
     margin-right: 5px;
   }
-  .card-icons .con {
-    color:rgba(12, 2, 11, 0.644);
-    margin-left: 20px;
-  }
+  
 }
 
 @media screen and (max-width: 768px) {
@@ -144,9 +141,5 @@
     color:rgba(12, 2, 11, 0.644);
     margin-left: 10px;
     margin-right: 5px;
-  }
-  .card-icons .con {
-    color:rgba(12, 2, 11, 0.644);
-    margin-left: 20px;
   }
 }
