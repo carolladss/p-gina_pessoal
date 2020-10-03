@@ -54,8 +54,7 @@
 
   .card-icons {
     text-align: center;
-    border-radius: 5px;
-    padding: 5px;
+    border-radius: 30px;
     background: #a008ae48;
   }
 
@@ -63,8 +62,16 @@
     color:rgba(12, 2, 11, 0.644);
     margin-left: 10px;
     margin-right: 5px;
+    margin-top: 2px;
   }
-  
+
+  .card-icons p {
+    color:rgba(12, 2, 11, 0.644);
+    margin-left: 5px;
+    margin-right: 10px;
+    font-size: 25px;
+  }
+
 }
 
 @media screen and (max-width: 768px) {
@@ -141,5 +148,11 @@
     color:rgba(12, 2, 11, 0.644);
     margin-left: 10px;
     margin-right: 5px;
+  }
+
+  .card-icons p {
+    color:rgba(12, 2, 11, 0.644);
+    margin-left: 5px;
+    margin-right: 10px;
   }
 }
